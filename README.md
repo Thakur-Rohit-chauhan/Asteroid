@@ -83,5 +83,3 @@ The game tracks performance and state through two primary log files:
 
 *Developed as a modular Python game exercise using Pygame 2.6.*
 
-```
-
